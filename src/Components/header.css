@@ -1,0 +1,17 @@
+.decription-box {
+  color: #124265;
+  width: 201px;
+}
+
+.decription-box :hover {
+  color: #2487ce;
+}
+
+.decription-box li  {
+  list-style: none ;
+}
+
+.decription-box li a {
+  color: #124265;
+
+}

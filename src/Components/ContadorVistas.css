@@ -1,0 +1,38 @@
+.contador {
+  margin-bottom: -6px;
+}
+
+.label {
+  font-weight: normal; /* Aplica el estilo de font-weight que desees para 'visitas' */
+}
+
+.contador {
+  font-weight: bold; /* Aplica el estilo de font-weight que desees para el contador */
+}
+
+
+/* .contenedor-contador {
+  font-size: 12px;
+  font-weight: 600;
+  display: inline-block;
+  background: #ffff;
+  color: #2487ce;
+  padding: 0px 0px;
+  width: 100px;
+  border-radius: 4px;
+  display: inline-block;
+  /* background-color: red; */
+
+
+/* 
+.contador-container {
+  font-size: 12px;
+  font-weight: 600;
+  margin-top: px;
+  display: inline-block;
+  background: #ffff;
+
+  width: 100px;
+  border-radius: 4px;
+} */
+
